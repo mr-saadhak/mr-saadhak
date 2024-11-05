@@ -48,5 +48,5 @@ Welcome to my GitHub profile! I’m currently working on various programming lan
 ---
 
 ### 📫 Let's Connect!
-- **GitHub:** [Your GitHub Profile](https://github.com/mr-saadhak)
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/vardaan__19)
+- **GitHub:** [mr-saadhak](https://github.com/mr-saadhak)
+- **Instagram:** [vardaan__19](https://www.instagram.com/vardaan__19)
