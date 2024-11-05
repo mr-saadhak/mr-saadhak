@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I’m currently working on various programming lan
 - **Open-Source:** Parts of the codebase utilize open-source contributions, enhancing functionality and flexibility.
 
 <p align="center">
-  <img src="./images/vardaan.png" alt="Mission Vardaan Studio Screenshot" width="40%" />
+  <img src="./images/vardaan.png" alt="Mission Vardaan Studio Screenshot" width="30%" />
 </p>
 
 
