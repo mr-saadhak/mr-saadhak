@@ -16,11 +16,13 @@ Welcome to my GitHub profile! I’m currently working on various programming lan
   <img src="https://img.shields.io/badge/DSA-264653?style=for-the-badge&logo=code&logoColor=white" alt="Data Structures & Algorithms" />
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/UI/UX Design-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Davinci_Resolve-221C18?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="Davinci Resolve" />
+  <img src="https://img.shields.io/badge/Wondershare_Filmora-0779E4?style=for-the-badge&logo=filmora&logoColor=white" alt="Wondershare Filmora" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
+
 
 
 ---
