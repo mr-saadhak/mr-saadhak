@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I’m currently working on various programming lan
 **Mission Vardaan Studio** is a comprehensive video editing software project developed using a combination of **QML** for UI, **C++** for backend functionality, and various other tools. 
 
 #### Project Highlights:
-- **Intuitive UI:** Sleek, user-friendly design inspired by Wondershare Filmora.
-- **Multilingual Support:** Built with cross-platform compatibility in mind.
+- **Smart UI:** Sleek, user-friendly design inspired by Wondershare Filmora.
+- **Global Language Support:** Ensures compatibility across various platforms.
 - **Advanced Editing Tools:** Offers a robust suite of tools for both novice and professional users.
 - **Open-Source:** Parts of the codebase utilize open-source contributions, enhancing functionality and flexibility.
 
