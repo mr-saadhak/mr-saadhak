@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I’m currently working on various programming languages and an exciting project named **Mission Vardaan Studio**.
 
+# 👋 Hello, I'm [Your Name]!
+
+Welcome to my GitHub profile! I’m currently working on various programming languages and an exciting project named **Mission Vardaan Studio**.
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -27,8 +31,9 @@ Welcome to my GitHub profile! I’m currently working on various programming lan
 - **Open-Source:** Parts of the codebase utilize open-source contributions, enhancing functionality and flexibility.
 
 <p align="center">
-  <img src="https://yourprojectimageurl.com" alt="Mission Vardaan Studio Screenshot" width="80%" />
+  <img src="./images/vardaan.png" alt="Mission Vardaan Studio Screenshot" width="80%" />
 </p>
+
 
 [🔗 Explore Mission Vardaan Studio on GitHub](https://github.com/mr-saadhak/Mission-Vardaan-Studio)
 
